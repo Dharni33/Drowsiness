@@ -1,4 +1,4 @@
 scipy
 numpy
-opencv
+opencv3-
 matplotlib
